@@ -116,12 +116,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https:https://m.vidio.com/
-#EXTVLCOPT:http-referrer=https:https://m.vidio.com/
-#EXTINF:-1 tvg-id="INDOSIAR.id" group-title="BONUS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/INDOSIAR_Logo_4.png/revision/latest/scale-to-width-down/250?cb=20170825144027",INDOSIAR 2986
-https://etslive-2-vidio-com.akamaized.net/exp=1710587798~acl=/hls-p/ingest_205_*/*~hmac=7335732bf74ffc2f3829f965467ceccb367e1027751f60a00dc4b1aa67b87b67/hls-p/ingest_205_240p/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="tvOne.id" group-title="BONUS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne 2986
